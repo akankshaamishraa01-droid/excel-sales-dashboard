@@ -1,4 +1,4 @@
-# Excel Sales Dashboard Project
+# Vrinda Store Sales Analysis Dashboard
 
 ## Project Overview
 This project contains an interactive Excel dashboard built to analyze sales performance, KPIs, and business insights.
